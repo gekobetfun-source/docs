@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "CorriereDelloSport.FUN",
   "logo": {
-    "dark": "/images/logo_cds.png",
-    "light": "/images/logo_cds.png"
+    "dark": "/images/logo_gekobet.png",
+    "light": "/images/logo_gekobet.png"
   },
-  "favicon": "/favicon.jpeg",
+  "favicon": "/favicon.png",
   "colors": {
     "primary": "#126F50",
     "light": "#34CC33",
