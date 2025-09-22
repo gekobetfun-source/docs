@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#126F50",
-    "light": "#34CC33",
-    "dark": "#34CC33",
+    "primary": "#0F7F63",
+    "light": "#37D042",
+    "dark": "#37D042",
     "anchors": {
-      "from": "#34CC33",
-      "to": "#34CC33"
+      "from": "#37D042",
+      "to": "#37D042"
     }
   },
   "primaryTab": {
@@ -26,29 +26,29 @@
   ],
   "topbarCtaButton": {
     "name": "Gioco fun",
-    "url": "https://corrieredellosport.fun/home"
+    "url": "https://gekobet.fun/home"
   },
   "tabs": [
     {
       "name": "Regolamento completo",
-      "url": "https://corrieredellosport.fun/regolamento"
+      "url": "https://gekobet.fun/regolamento"
     }
   ],
   "anchors": [
     {
       "name": "Pronostici",
       "icon": "lightbulb",
-      "url": "https://corrieredellosport.fun/algoritmo-del-gol"
+      "url": "https://gekobet.fun/algoritmo-del-gol"
     },
     {
       "name": "Classifiche",
       "icon": "trophy",
-      "url": "https://corrieredellosport.fun/ranking"
+      "url": "https://gekobet.fun/ranking"
     },
     {
       "name": "News",
       "icon": "newspaper",
-      "url": "https://corrieredellosport.fun/news"
+      "url": "https://gekobet.fun/news"
     }
   ],
   "navigation": [
