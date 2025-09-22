@@ -8,11 +8,11 @@
   "favicon": "/favicon.jpeg",
   "colors": {
     "primary": "#34CC33",
-    "light": "#FF3F4B",
-    "dark": "#E20613",
+    "light": "#34CC33",
+    "dark": "#34CC33",
     "anchors": {
-      "from": "#E20613",
-      "to": "#FF3F4B"
+      "from": "#34CC33",
+      "to": "#34CC33"
     }
   },
   "primaryTab": {
