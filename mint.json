@@ -1,0 +1,92 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "CorriereDelloSport.FUN",
+  "logo": {
+    "dark": "/images/logo_cds.png",
+    "light": "/images/logo_cds.png"
+  },
+  "favicon": "/favicon.jpeg",
+  "colors": {
+    "primary": "#E20613",
+    "light": "#FF3F4B",
+    "dark": "#E20613",
+    "anchors": {
+      "from": "#E20613",
+      "to": "#FF3F4B"
+    }
+  },
+  "primaryTab": {
+    "name": "Guida del gioco"
+},
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "mailto:support@corriereoolixycom.zendesk.com"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Gioco fun",
+    "url": "https://corrieredellosport.fun/home"
+  },
+  "tabs": [
+    {
+      "name": "Regolamento completo",
+      "url": "https://corrieredellosport.fun/regolamento"
+    }
+  ],
+  "anchors": [
+    {
+      "name": "Pronostici",
+      "icon": "lightbulb",
+      "url": "https://corrieredellosport.fun/algoritmo-del-gol"
+    },
+    {
+      "name": "Classifiche",
+      "icon": "trophy",
+      "url": "https://corrieredellosport.fun/ranking"
+    },
+    {
+      "name": "News",
+      "icon": "newspaper",
+      "url": "https://corrieredellosport.fun/news"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Calcio d'inizio", 
+      "pages": ["guida-introduttiva", "completa-il-profilo","personalizza-esperienza","concorso"]
+    },
+    {
+      "group": "Registrazione",
+      "pages": ["registrazione/registrazione-e-accesso","registrazione/faq"]
+    },
+    {
+      "group": "Tutti i giochi",
+      "pages": ["tutti-i-giochi/schedine", "tutti-i-giochi/palinsesto-sfida", "tutti-i-giochi/special-race", "tutti-i-giochi/faq"]
+    },
+    {
+      "group": "Crediti di gioco",
+      "pages": ["crediti-di-gioco/gestione-crediti","crediti-di-gioco/faq-crediti"]
+    },
+    {
+      "group": "Scalata status sociale",
+      "pages": ["scalata-status-sociale/status-sociale","scalata-status-sociale/livelli","scalata-status-sociale/punti-schedina-special"]
+    },
+    {
+      "group": "Gollo predictor",
+      "pages": ["gollo-predictor/gollo-algoritmo"]
+    },
+    {
+      "group": "Community",
+      "pages": ["community/entra-nella-community","community/tipster-hot-players"]
+    },
+    {
+      "group": "Premi e conversioni",
+      "pages": ["premi-e-conversioni/conversioni","premi-e-conversioni/premi"]
+    },
+    {
+      "group": "Assistenza e supporto",
+      "pages": ["assistenza/assistenza-supporto"]
+    }
+  ]
+}
