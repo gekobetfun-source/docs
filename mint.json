@@ -11,8 +11,8 @@
     "light": "#34CC33",
     "dark": "#34CC33",
     "anchors": {
-      "from": "#34CC33",
-      "to": "#34CC33"
+      "from": "#126F50",
+      "to": "#126F50"
     }
   },
   "primaryTab": {
